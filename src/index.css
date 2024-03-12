@@ -1,0 +1,15 @@
+:root {
+    --main-bg-color: #212129;
+    --main-hover-color: #323949;
+    --main-front-color: #3d3e51;
+    --main-text-color: #4c5265
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: var(--main-bg-color);
+
+    font-family: monospace;
+}
